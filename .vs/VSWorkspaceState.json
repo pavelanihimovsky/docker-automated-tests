@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\circleci",
+    "\\circleci\\dotnet-core"
+  ],
+  "SelectedNode": "\\circleci\\dotnet-core\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
